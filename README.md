@@ -7,11 +7,12 @@ I am a Software Analysis and Development student (ADSO) passionate about the int
 - Improving my **English** for international collaboration (Target: Vancouver 2028 🇨🇦).
 
 ### 🛠️ Tech Stack & Learning Roadmap:
-
-Languages: Python (Core), SQL, JavaScript 
-Data Science: Pandas, NumPy (Learning), Matplotlib 
-Tools: Git, GitHub, Linux, Docker (Coming soon) 
-Focus: MLOps, Data Engineering, Machine Learning 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Core), SQL, JavaScript |
+| **Data Science** | Pandas, NumPy (Learning), Matplotlib |
+| **Tools** | Git, GitHub, Linux, Docker (Coming soon) |
+| **Focus** | MLOps, Data Engineering, Machine Learning | 
 
 ### 📈 Future Goals:
 - [ ] Complete my ADSO program at SENA.
